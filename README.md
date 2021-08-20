@@ -12,8 +12,9 @@ Link z ograniczonymi uprawnieniami (BETA): https://discord.com/api/oauth2/author
 
 Link z uprawnieniami Admina (działa na pewno): https://discord.com/api/oauth2/authorize?client_id=865266891617861683&permissions=8&scope=bot
 
-# Funkcje
-Tutaj przedstawione są rużne 
+#Funkcje
+
+Poniżej przedstawione są różne funkcje bota oraz porady dotyczące ich użycia
 
 
 # Rozrywka
