@@ -4,12 +4,23 @@
 Darmowy i szybki DiscordBot mający dodatkowo funkcje dla streamerów Fortnite
 
 # Zaproszenie
+Aktualnie sam hostuję bota jednak może on nie być dostępny 24/7 i być podatny na błędy. Aby uzyskać w 100% stabilną wersję możesz samemu pobrać projekt i uruchomić go.
 
 Użyj linku poniżej aby zaprosić bota na serwer
 
 Link z ograniczonymi uprawnieniami (BETA): https://discord.com/api/oauth2/authorize?client_id=865266891617861683&permissions=469986358&scope=bot
 
 Link z uprawnieniami Admina (działa na pewno): https://discord.com/api/oauth2/authorize?client_id=865266891617861683&permissions=8&scope=bot
+
+# Funkcje
+Tutaj przedstawione są rużne 
+
+
+# Rozrywka
+AI - Sztuczna inteligencja z którą mogą rozmawiać uczestnicy serwera. Kofiguracja za pomocą d!setai (użyj będąc na kanale na którym ma działać AI) # Fun
+
+Więcej opisów funkcji i komend dostępne jest pod komendą d!info
+
 
 # Funkcje dla streamerów Fortnite
 
