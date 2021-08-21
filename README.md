@@ -8,7 +8,7 @@ Aktualnie sam hostuję bota jednak może on nie być dostępny 24/7 i być podat
 
 Użyj linku poniżej aby zaprosić bota na serwer
 
-Link z ograniczonymi uprawnieniami (BETA): https://discord.com/api/oauth2/authorize?client_id=865266891617861683&permissions=469986358&scope=bot
+Link z ograniczonymi uprawnieniami (BETA): AKTUALNIE NIE DZIAŁA I POWODUJE MASĘ BŁĘDÓW! 
 
 Link z uprawnieniami Admina (działa na pewno): https://discord.com/api/oauth2/authorize?client_id=865266891617861683&permissions=8&scope=bot
 
