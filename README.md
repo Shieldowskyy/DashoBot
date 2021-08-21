@@ -158,3 +158,8 @@ d!banchan <@user> - Blokowanie użytkownikom dostępu do określonego kanału (a
   Możesz też zgłosić się do mnie o pomoc na Discord! DM: Shieldowskyy#0001
   
   Przyjmuję prywatne wiadomości
+  
+  # Kod źródłowy i projekt
+  
+  Jeżeli chcesz stworzyć własną instancję DashoBota to nie ma problemu ale musisz oznaczyć w opisie bota i/lub statusie że został on stworzony przeze mnie!
+  Wstaw np. "Stworzony przez Shieldowskyy" lub "Created by Shieldowskyy". Nie usuwaj informacji o autorze i nie przywłaszczaj sobię projektu. 
