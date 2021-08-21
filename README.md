@@ -155,7 +155,7 @@ d!banchan <@user> - Blokowanie użytkownikom dostępu do określonego kanału (a
   
   Link do formularza zgłaszania błędu: https://github.com/Shieldowskyy/DashoBot/issues/new
   
-  Możesz też zgłosić się do mnie o pomoc na Discord! DM: Shieldowskyy#0001
+  Możesz też zgłosić się do mnie o pomoc na Discord! DM: Shieldowskyy#5834
   
   Przyjmuję prywatne wiadomości
   
