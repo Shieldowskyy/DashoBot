@@ -1,12 +1,10 @@
 ![pjona z driftem](https://user-images.githubusercontent.com/32707076/125853266-12323818-a49d-47e8-9393-058153ccf595.png)
 
 # DashoBot
-Darmowy i szybki DiscordBot mający dodatkowo funkcje dla streamerów Fortnite
+Darmowy i szybki DiscordBot muzyczny mający funkcje moderacyjno-rozrywkowe oraz dodatkowo funkcje dla streamerów Fortnite
 
 # Zaproszenie
-Aktualnie sam hostuję bota jednak może on nie być dostępny 24/7 i być podatny na błędy. Aby uzyskać w 100% stabilną wersję możesz samemu pobrać projekt i uruchomić go.
-
-Użyj linku poniżej aby zaprosić bota na serwer
+Użyj linków poniżej aby zaprosić bota na serwer
 
 Link z ograniczonymi uprawnieniami (BETA): AKTUALNIE NIE DZIAŁA I POWODUJE MASĘ BŁĘDÓW! 
 
@@ -22,6 +20,19 @@ AI - Sztuczna inteligencja z którą mogą rozmawiać uczestnicy serwera. Kofigu
 
 Więcej opisów funkcji i komend dostępne jest pod komendą d!info
 
+# Muzyka
+Bot posiada możliwość włączenia muzyki z serwisu YouTube!
+Aby użyć tej funkcji skorzystaj z poniższych komend:
+
+d!p /lub/ d!play <tytuł lub link z yt>
+**d!purl /lub/ d!playurl** <URL do pliku muzycznego lub wideo>
+**d!stop** - zatrzymuje
+**d!skip** - pomija obecnie grające
+**d!pause** - wstrzymuje
+**d!unpause /lub/ d!resume** - Oczywiste...
+**d!loop** - Zapętla aktualnie grającą piosenkę
+**d!unloop** - No wiadomo...
+**d!fix** - Naprawia odtwarzanie w razie problemów! WAŻNE: Czyści kolejkę!
 
 # Funkcje dla streamerów Fortnite
 
