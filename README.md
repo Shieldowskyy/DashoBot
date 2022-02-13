@@ -24,9 +24,9 @@ Więcej opisów funkcji i komend dostępne jest pod komendą d!info
 Bot posiada możliwość włączenia muzyki z serwisu YouTube!
 Aby użyć tej funkcji skorzystaj z poniższych komend:
 
-**d!p /lub/ d!play** <tytuł lub link z yt>
+**d!p /lub/ d!play** [tytuł lub link z yt]
 
-**d!purl /lub/ d!playurl** <URL do pliku muzycznego lub wideo>
+**d!purl /lub/ d!playurl** [URL do pliku muzycznego lub wideo]
   
 **d!stop** - zatrzymuje
   
