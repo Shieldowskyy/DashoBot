@@ -24,14 +24,22 @@ Więcej opisów funkcji i komend dostępne jest pod komendą d!info
 Bot posiada możliwość włączenia muzyki z serwisu YouTube!
 Aby użyć tej funkcji skorzystaj z poniższych komend:
 
-d!p /lub/ d!play <tytuł lub link z yt>
+**d!p /lub/ d!play** <tytuł lub link z yt>
+
 **d!purl /lub/ d!playurl** <URL do pliku muzycznego lub wideo>
+  
 **d!stop** - zatrzymuje
+  
 **d!skip** - pomija obecnie grające
+  
 **d!pause** - wstrzymuje
+  
 **d!unpause /lub/ d!resume** - Oczywiste...
+  
 **d!loop** - Zapętla aktualnie grającą piosenkę
+  
 **d!unloop** - No wiadomo...
+  
 **d!fix** - Naprawia odtwarzanie w razie problemów! WAŻNE: Czyści kolejkę!
 
 # Funkcje dla streamerów Fortnite
