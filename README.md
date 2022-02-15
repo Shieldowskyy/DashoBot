@@ -16,7 +16,9 @@ Poniżej przedstawione są różne funkcje bota oraz porady dotyczące ich użyc
 
 
 # Rozrywka
-AI - Sztuczna inteligencja z którą mogą rozmawiać uczestnicy serwera. Kofiguracja za pomocą d!setai (użyj będąc na kanale na którym ma działać AI) # Fun
+AI - Sztuczna inteligencja z którą mogą rozmawiać uczestnicy serwera. Kofiguracja za pomocą d!setai (użyj będąc na kanale na którym ma działać AI)
+
+LICZENIE - Obsługa dynamicznej zmiany opisu kanału na którym ma odbywać się liczenie. Kofiguracja za pomocą d!setliczenie (użyj będąc na kanale na którym ma działać LICZENIE)
 
 Więcej opisów funkcji i komend dostępne jest pod komendą d!info
 
