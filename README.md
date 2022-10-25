@@ -3,6 +3,9 @@
 # DashoBot
 Darmowy i szybki DiscordBot muzyczny mający funkcje moderacyjno-rozrywkowe oraz dodatkowo funkcje dla streamerów Fortnite
 
+# Repozytorium
+To repozytorium zostało zawieszone i znajduje się tutaj tylko instrukcja konfiguracji bota! Kod źródłowy został usunięty aby zapobiec wycieku tokenów!
+
 # Zaproszenie
 Użyj linków poniżej aby zaprosić bota na serwer
 
