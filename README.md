@@ -183,8 +183,6 @@ d!banchan <@user> - Blokowanie użytkownikom dostępu do określonego kanału (a
   
   Przyjmuję prywatne wiadomości
   
-  ODQ2ODM4OTM1NjM1MjMwNzgw.GIHdk5.Nx2MZAYmta33sZlnN0n0fpxKcOT5NCeaZtMgpg
-  
   # Kod źródłowy i projekt
   
   Jeżeli chcesz stworzyć własną instancję DashoBota to nie ma problemu ale musisz oznaczyć w opisie bota i/lub statusie że został on stworzony przeze mnie!
